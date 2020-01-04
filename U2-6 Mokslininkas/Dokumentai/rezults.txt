@@ -1,0 +1,14 @@
+
+ Antro mokslininko duomenys 
+{0}
+-----------------------------------------------------------------
+Nr Autoriaus        Straipsnio        Þurnalo pav. Nr Psl. Metai
+ vardas ir pavarde  pavadinimas                      Skaic.     
+-----------------------------------------------------------------
+1 Petraitis Petras  Ateities transportas Transport 5  15   2009
+2 Juozas Juozaitis  Verslo zinios        Verslas   6  15   1998
+3 Tomas Antanaitis  Palanga              Baltica   7  18   2000
+4 Antanas Gerve     Mityba               Sveikata  8  16   2003
+5 Paulius Paulaitis Student life         Studies   9  11   2004
+6 Tomas Antanaitis  Siurrealizmas        Mintis    9  26   2004
+-----------------------------------------------------------------

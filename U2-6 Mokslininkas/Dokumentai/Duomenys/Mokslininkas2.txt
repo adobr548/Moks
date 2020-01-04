@@ -1,0 +1,7 @@
+Jonas Antanaitis
+Povilas Petraitis;Ateities transportas;Transport;5;15;2009;
+Juozas Juozaitis ;Verslo zinios       ;Verslas  ;6;15;1998;
+Tomas Antanaitis ;Palanga             ;Baltica  ;7;18;2000;
+Antanas Gerve    ;Mityba              ;Sveikata ;8;16;2003;
+Paulius Paulaitis;Student life        ;Studies  ;9;11;2004;
+Tomas Antanaitis ;Siurrealizmas       ;Mintis   ;9;26;2004;

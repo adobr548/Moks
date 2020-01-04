@@ -1,0 +1,9 @@
+Karolis Valdaitis
+Petras Petraitis;Elektrolitas       ;Elektronika;5;20;1999;
+Juozas Juozaitis;Humanizmas         ;Humanistica;6;15;1999;
+Jurgis Garsva   ;Paklaidos          ;Matavimai  ;7;15;1999;
+Antanas Sakalas ;Tyrimai            ;Ultragarsas;8;20;1996;
+Adomas Adomaitis;Anatomija          ;Medicina   ;9;25;1999;
+Marius Kurpaitis;Naujausi Prototipai;Aviation   ;2;15;2001;
+Linas Olandas   ;Termochemija       ;Chemija    ;5;21;1997;
+Benas Margaitis ;Europa             ;Geografija ;6;24;2006;   
